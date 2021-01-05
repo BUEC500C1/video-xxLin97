@@ -1,6 +1,6 @@
 # Video
 ## API description  
-- For this homework, I use ffmepg to make a short video for the tweets.   
+- For this homework, I use ffmepg to make a short video for the tweets of Boston University.   
 
 - All the tweets are download if they match the keyword and convert into images and i use several funtions to make a video.  
 
